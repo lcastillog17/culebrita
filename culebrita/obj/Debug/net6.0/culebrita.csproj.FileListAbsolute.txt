@@ -1,0 +1,15 @@
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\bin\Debug\net6.0\culebrita.exe
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\bin\Debug\net6.0\culebrita.deps.json
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\bin\Debug\net6.0\culebrita.runtimeconfig.json
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\bin\Debug\net6.0\culebrita.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\bin\Debug\net6.0\ref\culebrita.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\bin\Debug\net6.0\culebrita.pdb
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.csproj.AssemblyReference.cache
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.AssemblyInfoInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.AssemblyInfo.cs
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.csproj.CoreCompileInputs.cache
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\ref\culebrita.dll
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.pdb
+C:\Users\linda\Desktop\umg linda daniela\SEMESTRE 5\Progra 3\proyecto culebrita final\culebrita\culebrita\obj\Debug\net6.0\culebrita.genruntimeconfig.cache
